@@ -26,6 +26,8 @@ Beyond removal of affected processed data from the RBC repository, we have devel
 ### Recommendation:
 If your analyses or manuscripts rely on affected TR-dependent functional derivatives, please review the guidance below. Where feasible, we encourage users to wait for corrected outputs or rerun affected steps using the patch code. If you continue with analyses based on the current release, we recommend documenting the effective filter ranges and considering sensitivity analyses, particularly for higher-TR datasets.
 
+<img width="5252" height="3708" alt="fMRI Data Processing-2026-05-23-001419" src="https://github.com/user-attachments/assets/6f3d09d2-0b71-4184-821f-b14e83a6c8a0" />
+
 
 ## What Happened
 
