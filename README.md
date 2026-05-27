@@ -1,5 +1,4 @@
-# Important RBC update: TR metadata issue affecting some functional derivatives
-
+# Important RBC update: Processed Functional Data+Pipeline TR Issue
 Dear RBC User Community,
 
 We are writing to inform you of a recently identified TR metadata issue in the RBC preprocessing pipeline that affected bandpass filtering for publicly released RBC functional derivatives, with larger deviations for datasets with longer TRs. 
