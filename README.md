@@ -69,7 +69,7 @@ Impacted RBC functional derivatives have been removed from INDI while corrected 
 
 ### Phase 1: Immediate User Guidance and Patch Code
 
-We are preparing patch code and documentation for the RBC GitHub repository (no later than June 1). This will help users identify affected files, inspect TR metadata, restore the correct TR from source/BIDS metadata where appropriate, and rerun affected downstream steps from minimally preprocessed data using the intended passband. This is intended to provide an immediate path for sensitivity analyses and independent verification while the RBC team prepares complete, corrected releases.
+We have added patch code and documentation for the RBC GitHub repository, [here](https://github.com/ReproBrainChart/2026FunctionalPatch/tree/main/patch). This should help users identify affected files, inspect TR metadata, restore the correct TR from source/BIDS metadata where appropriate, and rerun affected downstream steps from minimally preprocessed data using the intended passband. This is intended to provide an immediate path for sensitivity analyses and independent verification while the RBC team prepares complete, corrected releases.
 
 ### Phase 2: Updated fMRIPrep/XCP-D Pipeline Release
 
